@@ -1,6 +1,6 @@
 var Skunk = {};
 
-Skunk.domain = 'https://skunkapp.herokuapp.com';
+Skunk.domain = 'http://192.168.146.120:4567';
 Skunk.state = null;
 Skunk.token = '';
 Skunk.updating = false;
